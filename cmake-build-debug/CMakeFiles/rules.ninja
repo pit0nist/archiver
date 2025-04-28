@@ -42,7 +42,7 @@ rule CXX_EXECUTABLE_LINKER__archiver_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake --regenerate-during-build -S/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver -B/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver/cmake-build-debug
+  command = /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake --regenerate-during-build -S/Users/damirsitdikov/Desktop/archiver -B/Users/damirsitdikov/Desktop/archiver/cmake-build-debug
   description = Re-running CMake...
   generator = 1
 

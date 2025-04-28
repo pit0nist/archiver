@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G Ninja -DPython_EXECUTABLE=/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/venv/bin/python -DPython3_EXECUTABLE=/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/venv/bin/python -S /Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver -B /Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver/cmake-build-debug
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G Ninja -DPython_EXECUTABLE=/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/venv/bin/python -DPython3_EXECUTABLE=/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/venv/bin/python -S /Users/damirsitdikov/Desktop/archiver -B /Users/damirsitdikov/Desktop/archiver/cmake-build-debug
 CMake Warning (dev) in CMakeLists.txt:
   No project() command is present.  The top-level CMakeLists.txt file must
   contain a literal, direct call to the project() command.  Add a line of
@@ -40,7 +40,7 @@ CMake Warning (dev) in CMakeLists.txt:
   information run "cmake --help-policy CMP0000".
 This warning is for project developers.  Use -Wno-dev to suppress it.
 
--- Configuring done (1.2s)
+-- Configuring done (3.8s)
 -- Generating done (0.0s)
 CMake Warning:
   Manually-specified variables were not used by the project:
@@ -49,4 +49,4 @@ CMake Warning:
     Python_EXECUTABLE
 
 
--- Build files have been written to: /Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver/cmake-build-debug
+-- Build files have been written to: /Users/damirsitdikov/Desktop/archiver/cmake-build-debug

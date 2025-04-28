@@ -2,6 +2,7 @@
 
 const int32_t ZERO = 0;
 
+
 Reader::Reader(std::filesystem::path file) : file_(std::move(file)){
 }
 
@@ -13,11 +14,6 @@ void Writer::Eat(const Mask &line) {
 Writer::Writer(std::filesystem::path file) : file_(std::move(file)){
 }
 
-//Writer::~Writer() {
-//    if (sz_ != 0) {
-//        file_ << static_cast<unsigned char>((buf_ & ((1 << sz_) - 1)) << (8 - sz_));
-//    }
-//}
 
 void MakeCanonical(const std::vector<int32_t>& arr, const std::vector<size_t> & length,
                    std::vector<Mask>& canonical) {

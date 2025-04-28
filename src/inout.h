@@ -81,4 +81,3 @@ private:
 void MakeCanonical(const std::vector<int32_t>& arr, const std::vector<size_t>& length,
                     std::vector<Mask>& canonical);
 
-//#endif  // CPP_HSE_INOUT_H

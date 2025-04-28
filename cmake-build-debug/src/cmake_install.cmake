@@ -1,4 +1,4 @@
-# Install script for directory: /Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver/src
+# Install script for directory: /Users/damirsitdikov/Desktop/archiver/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

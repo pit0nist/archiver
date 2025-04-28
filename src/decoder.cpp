@@ -10,7 +10,6 @@ bool Decoder::DecodeFile() {
     std::vector<size_t> code_len(MAX_CHAR_NUMBER);
     ReadOrder(order, code_len);
     std::vector<Mask> codes(MAX_CHAR_NUMBER);
-//    std::array<std::vector<bool>, MAX_CHAR_NUMBER> codes;
     MakeCanonical(order, code_len, codes);
     Node* root = BuildTrie(order, codes);
     std::string name;

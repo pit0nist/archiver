@@ -67,7 +67,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver/cmake-build-debug"
+			"value" : "/Users/damirsitdikov/Desktop/archiver/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -491,7 +491,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/damirsitdikov/Desktop/archiver/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -551,7 +551,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver"
+			"value" : "/Users/damirsitdikov/Desktop/archiver"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1163,7 +1163,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver/cmake-build-debug"
+			"value" : "/Users/damirsitdikov/Desktop/archiver/cmake-build-debug"
 		},
 		{
 			"name" : "Project_IS_TOP_LEVEL",
@@ -1187,7 +1187,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver"
+			"value" : "/Users/damirsitdikov/Desktop/archiver"
 		},
 		{
 			"name" : "Python3_EXECUTABLE",

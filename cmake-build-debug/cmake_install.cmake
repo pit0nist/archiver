@@ -1,4 +1,4 @@
-# Install script for directory: /Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver
+# Install script for directory: /Users/damirsitdikov/Desktop/archiver
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,8 +39,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver/cmake-build-debug/src/cmake_install.cmake")
-  include("/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver/cmake-build-debug/tests/cmake_install.cmake")
+  include("/Users/damirsitdikov/Desktop/archiver/cmake-build-debug/src/cmake_install.cmake")
+  include("/Users/damirsitdikov/Desktop/archiver/cmake-build-debug/tests/cmake_install.cmake")
 
 endif()
 
@@ -52,5 +52,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/damirsitdikov/Desktop/archiver/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,12 +1,6 @@
 #include "trie.h"
 
 Node::Node(int32_t c, size_t cnt, Node* left, Node* right) : left_(left), right_(right), symb_(c), col_(cnt) {
-//    if (left_ != nullptr) {
-//        left_->par_ = this;
-//    }
-//    if (right_ != nullptr) {
-//        right_->par_ = this;
-//    }
 }
 
 Node::~Node() {
@@ -48,15 +42,6 @@ void Node::GetLength(int ln, std::vector<int32_t>& order, std::vector<size_t>& l
     }
 }
 
-//std::vector<bool> Node::GetMask() const {
-//    std::vector<bool> res;
-//    auto x = this;
-//    while (x -> par_ != nullptr) {
-//        res.emplace_back(x == x->par_->right_);
-//    }
-//    std::reverse(res.begin(), res.end());
-//    return res;
-//}
 
 void Node::Add(int32_t c, const std::vector<bool>& code) {
     Node* h = this;
@@ -64,7 +49,6 @@ void Node::Add(int32_t c, const std::vector<bool>& code) {
         Node*& son = h->GetSon(x);
         if (son == nullptr) {
             son = new Node();
-//            son->par_ = h;
         }
         h = son;
     }
