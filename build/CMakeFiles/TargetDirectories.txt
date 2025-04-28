@@ -1,0 +1,8 @@
+/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver/build/CMakeFiles/edit_cache.dir
+/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver/build/CMakeFiles/rebuild_cache.dir
+/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver/build/src/CMakeFiles/archiver.dir
+/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver/build/src/CMakeFiles/edit_cache.dir
+/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver/build/src/CMakeFiles/rebuild_cache.dir
+/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver/build/tests/CMakeFiles/test_archiver.dir
+/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver/build/tests/CMakeFiles/edit_cache.dir
+/Users/damirsitdikov/ami-Damir-Sitdikov-pit0nist/tasks/archiver/build/tests/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,18 @@
+add_executable(
+        archiver
+        archiver.cpp
+        priority_queue.h
+        trie.h
+        trie.cpp
+        argparse.h
+        argparse.cpp
+        inout.h
+        inout.cpp
+        encoder.h
+        encoder.cpp
+        decoder.h
+        help.h
+        help.cpp
+        decoder.cpp
+        trie.cpp
+)
